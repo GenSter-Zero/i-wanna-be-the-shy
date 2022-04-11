@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6e7b072c85c232b4cbedff6d2aff8aab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathmusic: {fileID: 8300000, guid: e098a0b563a0cc846906fe22b98da575, type: 3}
+  - fjumpmusic: {fileID: 8300000, guid: 7776f84d1df5b644ea6bb0981feba369, type: 3}
+  - sjumpmusic: {fileID: 8300000, guid: 5ba07c16239a3084aae75f56b92c6b54, type: 3}
+  - m_footCheck: {instanceID: 0}
+  - m_headCheck: {instanceID: 0}
+  - pfb_bullet: {instanceID: 0}
+  - ui_GameOverImage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
